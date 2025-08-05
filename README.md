@@ -1,4 +1,4 @@
 # git_test
-My test GitHub repo
+GitHub repo practice
 
 "HelLO"
